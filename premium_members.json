@@ -1,142 +1,121 @@
 [
   {
-    "name": "John Doe",
-    "role": "Clinical Researcher",
+    "name": "Sreenidhi",
+    "role": "Community Outreach Lead",
     "country": "India",
-    "avatar": "https://avatar.iran.liara.run/public/36",
+    "avatar": "https://avatar.iran.liara.run/public/9",
     "membership": "Premium"
   },
   {
-    "name": "Jane Smith",
-    "role": "Pharmacovigilance Specialist",
-    "country": "USA",
+    "name": "Mithuna",
+    "role": "Community Outreach Lead",
+    "country": "India",
+    "avatar": "https://avatar.iran.liara.run/public/85",
+    "membership": "Premium"
+  },
+  {
+    "name": "Nanthitha",
+    "role": "Member Engagement Manager",
+    "country": "India",
+    "avatar": "https://avatar.iran.liara.run/public/4",
+    "membership": "Premium"
+  },
+  {
+    "name": "Sivapriyan",
+    "role": "Partnership and Sponsorship Associate",
+    "country": "India",
+    "avatar": "https://avatar.iran.liara.run/public/7",
+    "membership": "Premium"
+  },
+  {
+    "name": "Merrin",
+    "role": "Partnership and Sponsorship Associate",
+    "country": "India",
+    "avatar": "https://avatar.iran.liara.run/public/73",
+    "membership": "Premium"
+  },
+  {
+    "name": "Sriram",
+    "role": "Member Engagement Manager",
+    "country": "India",
+    "avatar": "https://avatar.iran.liara.run/public/22",
+    "membership": "Premium"
+  },
+  {
+    "name": "Rohith",
+    "role": "Member Engagement Manager",
+    "country": "India",
+    "avatar": "https://avatar.iran.liara.run/public/33",
+    "membership": "Premium"
+  },
+  {
+    "name": "Praveen",
+    "role": "Event Coordinator",
+    "country": "India",
+    "avatar": "https://avatar.iran.liara.run/public/68",
+    "membership": "Premium"
+  },
+  {
+    "name": "Jersha",
+    "role": "Event Coordinator",
+    "country": "India",
     "avatar": "https://avatar.iran.liara.run/public/35",
-    "membership": "VIP"
-  },
-  {
-    "name": "Ali Al-Mansoori",
-    "role": "Hospital Intern",
-    "country": "UAE",
-    "avatar": "https://avatar.iran.liara.run/public/38",
     "membership": "Premium"
   },
   {
-    "name": "Fatima Al-Harthy",
-    "role": "Medical Writer",
-    "country": "Oman",
-    "avatar": "https://avatar.iran.liara.run/public/96",
-    "membership": "VIP"
-  },
-  {
-    "name": "Michael Brown",
-    "role": "Pharmaceutical Scientist",
-    "country": "UK",
-    "avatar": "https://avatar.iran.liara.run/public/38",
-    "membership": "Premium"
-  },
-  {
-    "name": "Sara Khan",
-    "role": "Clinical Data Manager",
-    "country": "Saudi Arabia",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/sara.jpg",
-    "membership": "Premium"
-  },
-  {
-    "name": "Liam Wilson",
-    "role": "Research Associate",
-    "country": "Australia",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/liam.jpg",
-    "membership": "VIP"
-  },
-  {
-    "name": "Emma Davis",
-    "role": "Regulatory Affairs Specialist",
-    "country": "Canada",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/emma.jpg",
-    "membership": "Premium"
-  },
-  {
-    "name": "Noah Lee",
-    "role": "Pharmacology Intern",
-    "country": "South Korea",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/noah.jpg",
-    "membership": "Premium"
-  },
-  {
-    "name": "Olivia Martinez",
-    "role": "Medical Writer",
-    "country": "Spain",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/olivia.jpg",
-    "membership": "VIP"
-  },
-  {
-    "name": "Sophia Chen",
-    "role": "Clinical Trial Coordinator",
-    "country": "China",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/sophia.jpg",
-    "membership": "Premium"
-  },
-  {
-    "name": "Ethan Patel",
-    "role": "Hospital Researcher",
+    "name": "Nishanth",
+    "role": "Partnership & Sponsorship Associate",
     "country": "India",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/ethan.jpg",
-    "membership": "VIP"
-  },
-  {
-    "name": "Ava Thompson",
-    "role": "Pharmaceutical Analyst",
-    "country": "USA",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/ava.jpg",
+    "avatar": "https://avatar.iran.liara.run/public/8",
     "membership": "Premium"
   },
   {
-    "name": "William Garcia",
-    "role": "Medical Consultant",
-    "country": "Mexico",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/william.jpg",
+    "name": "Jayanthi",
+    "role": "Innovation Lab Intern",
+    "country": "India",
+    "avatar": "https://avatar.iran.liara.run/public/98",
     "membership": "Premium"
   },
   {
-    "name": "Mia Lopez",
-    "role": "Regulatory Affairs Coordinator",
-    "country": "Brazil",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/mia.jpg",
-    "membership": "VIP"
-  },
-  {
-    "name": "James Anderson",
-    "role": "Clinical Research Associate",
-    "country": "UK",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/james.jpg",
+    "name": "Sowjanya",
+    "role": "Member Engagement Coordinator",
+    "country": "India",
+    "avatar": "https://avatar.iran.liara.run/public/84",
     "membership": "Premium"
   },
   {
-    "name": "Isabella Taylor",
-    "role": "Medical Writer",
-    "country": "Canada",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/isabella.jpg",
-    "membership": "VIP"
-  },
-  {
-    "name": "Benjamin Walker",
-    "role": "Hospital Intern",
-    "country": "UAE",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/benjamin.jpg",
+    "name": "Samyuktha",
+    "role": "Presidential Office Intern",
+    "country": "India",
+    "avatar": "https://avatar.iran.liara.run/public/72",
     "membership": "Premium"
   },
   {
-    "name": "Charlotte Harris",
-    "role": "Research Scientist",
-    "country": "Australia",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/charlotte.jpg",
-    "membership": "VIP"
+    "name": "Tharaneeshwaran",
+    "role": "Partnership & Sponsorship Associate",
+    "country": "India",
+    "avatar": "https://avatar.iran.liara.run/public/6",
+    "membership": "Premium"
   },
   {
-    "name": "Daniel Martinez",
-    "role": "Clinical Pharmacist",
-    "country": "Spain",
-    "avatar": "https://raw.githubusercontent.com/username/repo/main/images/daniel.jpg",
+    "name": "Naveen",
+    "role": "Media and Design Intern",
+    "country": "India",
+    "avatar": "https://avatar.iran.liara.run/public/40",
+    "membership": "Premium"
+  },
+  {
+    "name": "Arudhra",
+    "role": "Media and Design Intern",
+    "country": "India",
+    "avatar": "https://avatar.iran.liara.run/public/83",
+    "membership": "Premium"
+  },
+  {
+    "name": "Roshini",
+    "role": "Content Strategist",
+    "country": "India",
+    "avatar": "https://avatar.iran.liara.run/public/69",
     "membership": "Premium"
   }
 ]
